@@ -66,7 +66,7 @@ Client → Accept New Clients (epoll) → Proxy Server → Server Side Processin
 
 ### Connection Flow Diagram
 
-![IRC Server Architecture](docs/architecture.png)
+![IRC Server Architecture](./docs/architecture.png)
 *Figure: Complete IRC server-client-channel connection flow showing the interaction between clients, proxy server, and server-side processing*
 
 The diagram illustrates:
